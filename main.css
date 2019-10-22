@@ -386,10 +386,12 @@ nav ul li a:hover {
 .img-text h1 {
   font-size: 30px;
   margin-bottom: 10px;
+  color: aliceblue;
 }
 
 .img-text h6 {
   font-size: 15px;
+  color: aliceblue;
 
 }
 
